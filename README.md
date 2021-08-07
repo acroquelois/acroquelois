@@ -11,3 +11,9 @@ _Mobile application to facilitate learning foreign word_
 🎮  [Legionarius HUB](https://legionarius.netlify.app)
 
 _These games are the result of participation in GameJam_
+
+### Centurio
+
+[Centurio app](https://centurio.app/)
+
+_Cover recommendation engine on Ethereum_
