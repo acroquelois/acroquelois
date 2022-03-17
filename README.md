@@ -2,4 +2,4 @@
 
 📱 [FlipWord](https://flipword.io/)
 
-_Mobile application to facilitate learning foreign word_
+_Mobile application to facilitate the learning of foreign words_
